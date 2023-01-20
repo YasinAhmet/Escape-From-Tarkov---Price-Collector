@@ -1,0 +1,3 @@
+1- Javascript implementation of the collected prices on flea market in SP Tarkov
+
+2- Link collector for the previous collected items, so won't need to scan the same stuff again from the start. It may be in a format like: "Link, id, name and last checked price"
